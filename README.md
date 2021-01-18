@@ -1,3 +1,3 @@
 # PendingTasks
 
-https://ritikjaiswal019.github.io/PendingTasksApp/
+https://ritikjaiswal019.github.io/PendingTaskApp/
